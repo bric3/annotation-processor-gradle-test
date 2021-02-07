@@ -12,6 +12,9 @@ dependencies {
 
 
     annotationProcessor(project(':dumb-processor'))
+
+    implementation('info.archinnov:achilles-core:6.0.4')
+    annotationProcessor(project(':monkey-patched-processor'))
 }
 
 tasks.named('test') {

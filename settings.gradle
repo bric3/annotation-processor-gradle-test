@@ -2,3 +2,4 @@ rootProject.name = 'annotation-processor-gradle-test'
 include('lib')
 
 include('dumb-processor')
+include('monkey-patched-processor')

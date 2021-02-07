@@ -1,7 +1,6 @@
 package com.github.bric3;
 
 
-import com.github.bric3.Library;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
